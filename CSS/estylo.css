@@ -1,0 +1,23 @@
+header{
+    background-color: blueviolet;
+
+}
+nav{
+   background-color: aquamarine;
+   padding: 2;
+   margin: 2;
+   bottom: 2;
+
+
+}
+nav ul{
+    background-color: blueviolet;
+    
+    
+}
+ul li{
+    background-color: blueviolet;
+    margin: 2;
+    padding-left: 2;
+    
+}
